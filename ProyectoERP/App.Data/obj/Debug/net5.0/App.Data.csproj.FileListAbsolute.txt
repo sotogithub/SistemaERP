@@ -1,0 +1,15 @@
+C:\Users\Freeman\source\repos\ProyectoERP\App.Data\bin\Debug\net5.0\App.Data.deps.json
+C:\Users\Freeman\source\repos\ProyectoERP\App.Data\bin\Debug\net5.0\App.Data.dll
+C:\Users\Freeman\source\repos\ProyectoERP\App.Data\bin\Debug\net5.0\ref\App.Data.dll
+C:\Users\Freeman\source\repos\ProyectoERP\App.Data\bin\Debug\net5.0\App.Data.pdb
+C:\Users\Freeman\source\repos\ProyectoERP\App.Data\obj\Debug\net5.0\App.Data.csprojAssemblyReference.cache
+C:\Users\Freeman\source\repos\ProyectoERP\App.Data\obj\Debug\net5.0\App.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Freeman\source\repos\ProyectoERP\App.Data\obj\Debug\net5.0\App.Data.AssemblyInfoInputs.cache
+C:\Users\Freeman\source\repos\ProyectoERP\App.Data\obj\Debug\net5.0\App.Data.AssemblyInfo.cs
+C:\Users\Freeman\source\repos\ProyectoERP\App.Data\obj\Debug\net5.0\App.Data.csproj.CoreCompileInputs.cache
+C:\Users\Freeman\source\repos\ProyectoERP\App.Data\obj\Debug\net5.0\App.Data.dll
+C:\Users\Freeman\source\repos\ProyectoERP\App.Data\obj\Debug\net5.0\ref\App.Data.dll
+C:\Users\Freeman\source\repos\ProyectoERP\App.Data\obj\Debug\net5.0\App.Data.pdb
+C:\Users\Freeman\source\repos\ProyectoERP\App.Data\bin\Debug\net5.0\App.Entity.dll
+C:\Users\Freeman\source\repos\ProyectoERP\App.Data\bin\Debug\net5.0\App.Entity.pdb
+C:\Users\Freeman\source\repos\ProyectoERP\App.Data\obj\Debug\net5.0\App.Data.csproj.CopyComplete
